@@ -1,1 +1,3 @@
 # JavaScript
+
+Prepared Valentin Stoe
