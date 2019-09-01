@@ -1,3 +1,3 @@
 # JavaScript
 
-Prepared Valentin Stoev
+
