@@ -272,9 +272,9 @@ async@2.1.4:
   dependencies:
     lodash "^4.14.0"
 
-async@^1.5.0:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
+async@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.2.tgz#2eb7671034bb2194d45d30e31e24ec7e7f9670cd"
 
 async@~0.2.6:
   version "0.2.10"
@@ -2805,7 +2805,7 @@ gulp-util@~2.2.0:
     through2 "^0.5.0"
     vinyl "^0.2.1"
 
-gulp@^3.9.0:
+gulp@^3.9.1:
   version "3.9.1"
   resolved "https://registry.yarnpkg.com/gulp/-/gulp-3.9.1.tgz#571ce45928dd40af6514fc4011866016c13845b4"
   dependencies:
