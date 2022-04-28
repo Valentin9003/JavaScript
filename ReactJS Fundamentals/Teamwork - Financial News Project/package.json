@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "alt": "^0.18.6",
-    "async": "^1.5.0",
+    "async": "^2.6.4",
     "body-parser": "^1.14.1",
     "bootswatch": "^3.3.7",
     "colors": "^1.1.2",
